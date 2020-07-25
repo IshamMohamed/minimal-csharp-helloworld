@@ -10,4 +10,4 @@ This repo contains the minimal amount of files to create an exe that prints `hel
 - Go to the repository in commandline / terminal
 - Run `dotnet restore`
 - Run `dotnet build`
-- The executable can be find in the `bin` folder. 
+- The executable can be found in the `bin` folder. 
