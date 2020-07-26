@@ -1,4 +1,4 @@
-# Minimal C# Hello World Executable
+# Minimal ASP.NET Core / C# Hello World Server
 This repo contains the minimal amount of files to create an ASP.NET Core webserver that prints `hello world` when invoked
 
 ## Prerequisites
