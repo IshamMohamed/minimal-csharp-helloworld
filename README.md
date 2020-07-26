@@ -1,5 +1,5 @@
 # Minimal C# Hello World Executable
-This repo contains the minimal amount of files to create an exe that prints `hello world` in the console using C# 9 top level statements.
+This repo contains the minimal amount of files to create an ASP.NET Core webserver that prints `hello world` when invoked
 
 ## Prerequisites
 - .NET 5 (latest preview)
@@ -10,4 +10,5 @@ This repo contains the minimal amount of files to create an exe that prints `hel
 - Go to the repository in commandline / terminal
 - Run `dotnet restore`
 - Run `dotnet build`
-- The executable can be found in the `bin` folder, which is created in the build process in the same directory in which the files are residing. 
+- Run `dotnet run`
+- Send a GET request to https://localhost:5001
